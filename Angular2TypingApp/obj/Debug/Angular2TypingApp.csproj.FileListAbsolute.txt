@@ -1,6 +1,6 @@
+D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\obj\Debug\Angular2TypingApp.csprojResolveAssemblyReference.cache
 D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\bin\Angular2TypingApp.dll.config
 D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\bin\Angular2TypingApp.dll
 D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\bin\Angular2TypingApp.pdb
 D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\obj\Debug\Angular2TypingApp.dll
 D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\obj\Debug\Angular2TypingApp.pdb
-D:\POC\GruntProject\Angular2TypingApp\Angular2TypingApp\obj\Debug\Angular2TypingApp.csprojResolveAssemblyReference.cache
